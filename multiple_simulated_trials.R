@@ -86,6 +86,6 @@ violin_plot_wide <-
   ylim(c(0,80)) +
   theme_classic() +
   theme(legend.position = "none") +
-  ggtitle("Fibrois stage change in 1000 simulated trials of 120 placebo treated participants with NASH")
+  ggtitle("Fibrosis stage change in 1000 simulated trials of 120 placebo treated participants with NASH")
 
 violin_plot_wide
